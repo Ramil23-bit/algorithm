@@ -1,0 +1,17 @@
+Level 1
+task1.test1
+level difficulty O(n^2)
+
+task1.test2
+level difficulty O(n)
+
+level 2
+task2.test1
+level difficulty O(log n)
+
+task2.test2
+level difficulty O(n)
+
+
+
+
