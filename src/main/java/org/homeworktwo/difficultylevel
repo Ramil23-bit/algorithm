@@ -3,14 +3,14 @@ task1.test1
 level difficulty O(n^2)
 
 task1.test2
-level difficulty O(n)
+level difficulty O(n^2)
 
 level 2
 task2.test1
-level difficulty O(log n)
+level difficulty O(n log n)
 
 task2.test2
-level difficulty O(n)
+level difficulty O(log n)
 
 
 
